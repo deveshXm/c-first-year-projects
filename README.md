@@ -1,2 +1,3 @@
 # c-first-year-projects
-Here are projects which i made using c++.
+Hi!, welcome to my repo
+These are some projects which i currently made using c++ as a beginner programmer.
